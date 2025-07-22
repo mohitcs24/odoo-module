@@ -30,6 +30,6 @@ This repository contains a collection of custom modules developed for the **Odoo
 1. Clone the repository:
    ```bash
    git clone https://github.com/mohitcs24/odoo-module.git
+<img width="947" height="520" alt="odoo" src="https://github.com/user-attachments/assets/0a00e0af-f1dc-47df-8ba3-3f747b8aa8fc" />
 
-   <img width="947" height="520" alt="odoo" src="https://github.com/user-attachments/assets/c55cff43-f4e6-4648-8f83-23ef7a10ddf2" />
 
